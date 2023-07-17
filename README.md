@@ -1,2 +1,2 @@
 # 61spotkanie
-demo do spotkania 61
+Demo do spotkania 61 Data Community
